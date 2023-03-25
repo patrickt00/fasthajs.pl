@@ -1,0 +1,28 @@
+.navbar {
+    -webkit-box-shadow: 0 8px 6px -6px #333333;
+    -moz-box-shadow: 0 8px 6px -6px #333333;
+    box-shadow: 0 8px 20px -8px #333333;
+}
+
+.navbar-nav > li{
+    padding-left:20px;
+    padding-right:20px;
+}
+
+  
+/* ============ desktop view ============ */
+@media all and (min-width: 992px) {
+	.navbar .nav-item .dropdown-menu{ display: none; }
+	.navbar .nav-item:hover .nav-link{   }
+	.navbar .nav-item:hover .dropdown-menu{ display: block; }
+	.navbar .nav-item .dropdown-menu{ margin-top:0; }
+}	
+/* ============ desktop view .end// ============ */
+
+#logolabel {
+  margin: 0;
+}
+
+@media all and (max-width: 991px){
+#navbarOffcanvasLg { max-width: 200px;}
+}
