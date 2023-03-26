@@ -16,14 +16,24 @@
 </head>
 <body>
     <!-- Navbar -->
+    <?php include '../parts/navbar.php' ?>
+
 
     <!-- Page content -->
     <div class="container" style="margin-top: 50px;">
         <h1>Kompendium wiedzy</h1>
-        
-        <a href="freelancing" class="btn btn-success btn-lg">Success</button>
-/
-
+        <a class="btn btn-outline-success btn-lg" href="freelancing" role="button">Freelancing</a>
+        <a class="btn btn-outline-success btn-lg" href="freelancing" role="button">Handel kryptowalutami</a><br><br>
+        <a class="btn btn-outline-success btn-lg" href="freelancing" role="button">Inwestycje w nieruchomości</a>
+        <a class="btn btn-outline-success btn-lg" href="freelancing" role="button">Oszczędzanie i budżet</a><br><br>
+        <a class="btn btn-outline-success btn-lg" href="freelancing" role="button">Podatki i ulgi</a>
+        <a class="btn btn-outline-success btn-lg" href="freelancing" role="button">Podstawy inwestowania</a><br><br>
+        <a class="btn btn-outline-success btn-lg" href="freelancing" role="button">Przedsiębiorczość</a>
+        <a class="btn btn-outline-success btn-lg" href="freelancing" role="button">Sztuka negocjacji</a><br><br>
+        <a class="btn btn-outline-success btn-lg" href="freelancing" role="button">Zarabianie pasywne</a>
+        <a class="btn btn-outline-success btn-lg" href="freelancing" role="button">Link</a><br><br>
+        <a class="btn btn-outline-success btn-lg" href="freelancing" role="button">Link</a>
+        <a class="btn btn-outline-success btn-lg" href="freelancing" role="button">Link</a><br><br>
     </div>
 
 <!-- Scripts -->

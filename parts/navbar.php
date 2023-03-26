@@ -30,16 +30,16 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link  dropdown-toggle" data-bs-toggle="dropdown">Promocje</a>
                          <ul class="dropdown-menu">
-                           <li><a class="dropdown-item" href="../promocje/karty/">Promocje kart</a></li>
-                           <li><a class="dropdown-item" href="../promocje/indywidualne/">Promocje kont indywidualnych</a></li>
-                           <li><a class="dropdown-item" href="../promocje/firmowe/">Promocje kont firmowych</a></li>
+                           <li><a class="dropdown-item" href="/promocje/karty/">Promocje kart</a></li>
+                           <li><a class="dropdown-item" href="/promocje/indywidualne/">Promocje kont indywidualnych</a></li>
+                           <li><a class="dropdown-item" href="/promocje/firmowe/">Promocje kont firmowych</a></li>
                          </ul>
                      </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/wiedza/">Wiedza</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/kontakt/">Kontakt</a>
+                        <a class="nav-link" href="/uwazaj/">Uważaj</a>
                     </li>
                 </ul>
             </div>
@@ -54,4 +54,4 @@
               <script src="/theme.js">
             </script>
         </div>
-    </nav>
+</nav>
