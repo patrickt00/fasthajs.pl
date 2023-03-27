@@ -31,7 +31,7 @@
         <a class="btn btn-outline-success btn-lg" href="/wiedza/negocjacje" role="button">Sztuka negocjacji</a><br><br>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/przedsiebiorczosc" role="button">Przedsiębiorczość</a>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/pasywny" role="button">Dochód pasywny</a>
-        <a class="btn btn-outline-success btn-lg" href="/wiedza/resell" role="button">Rsell</a><br>
+        <a class="btn btn-outline-success btn-lg" href="/wiedza/resell" role="button">Resell</a><br>
         <h4>Skąd jeszcze można pozyskiwać przydatną wiedzę?</h4>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/ksiazki" role="button">Książki</a><br><br>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/fora" role="button">Fora internetowe</a>
