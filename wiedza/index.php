@@ -16,7 +16,7 @@
 </head>
 <body>
     <!-- Navbar -->
-    <?php include '../parts/navbar.php' ?>
+    <?php include "../parts/navbar.php" ?>
 
 
     <!-- Page content -->
