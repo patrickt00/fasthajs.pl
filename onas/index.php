@@ -20,20 +20,18 @@
 
     <!-- Page content -->
     <div class="container" style="margin-top: 50px;">
-        <h1>Kontakt</h1><br>
-        <p>Jeśli masz jakieś pytania, uwagi lub sugestie dotyczące naszej strony internetowej lub usług, zachęcamy do kontaktu z nami za pośrednictwem poczty elektronicznej na adres:<br><br>
-          
-          info@fasthajs.pl <br><br>
-          
-          Postaramy się odpowiedzieć na Twoją wiadomość najszybciej, jak to możliwe.<br>
-          
-          Pozdrawiamy!</p>
+        <h1>O nas</h1><br>
+        <p>Naszą misją jest inspirować, edukować i wspierać osoby pragnące odkryć różne sposoby generowania dochodu online. Wierzymy, że dzięki naszym poradom, artykułom i znaleziskom, każdy może znaleźć coś dla siebie i osiągnąć sukces w wybranej dziedzinie.</p>
+        <br>
+        <p>Zapraszamy do korzystania z naszych materiałów i życzymy powodzenia na drodze do osiągnięcia sukcesu w zarabianiu przez internet. Jeśli masz pytania, sugestie lub chciałbyś się podzielić swoimi doświadczeniami, zachęcamy do kontaktu z nami. Jesteśmy otwarci na współpracę i cieszymy się, gdy możemy wspólnie się rozwijać.</p>
+        <br>
+        <p>Nie przegap żadnych nowości i bądź na bieżąco z najlepszymi metodami zarabiania online, śledząc naszą stronę oraz kanały w mediach społecznościowych. Razem z nami odkryjesz, jak świat zarabiania przez internet może zmienić Twoje życie na lepsze...</p>
     </div>
 
     <!-- Footer -->
 
     <?php include "/parts/footer.php" ?>
-
+    
 <!-- Scripts -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
 

@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg py-1">
         <div class="container-fluid">
-            <a class="navbar-brand" href="../">
+            <a class="navbar-brand" href="/">
                 <div class="row" id="logo">
                   <div class="col-auto">
                     <img src="/images/logosmall.png" alt="Logo">
@@ -30,9 +30,9 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link  dropdown-toggle" data-bs-toggle="dropdown">Promocje</a>
                          <ul class="dropdown-menu">
-                           <li><a class="dropdown-item" href="/promocje/karty/">Promocje kart</a></li>
-                           <li><a class="dropdown-item" href="/promocje/indywidualne/">Promocje kont indywidualnych</a></li>
-                           <li><a class="dropdown-item" href="/promocje/firmowe/">Promocje kont firmowych</a></li>
+                           <li><a class="dropdown-item" href="/promocje/karty/">Karty</a></li>
+                           <li><a class="dropdown-item" href="/promocje/indywidualne/">Indywidualne</a></li>
+                           <li><a class="dropdown-item" href="/promocje/firmowe/">Firmowe</a></li>
                          </ul>
                      </li>
                     <li class="nav-item">
