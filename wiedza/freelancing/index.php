@@ -19,17 +19,19 @@
     <?php include '../../parts/navbar.php' ?>
 
     <!-- Page content -->
-<p>
-Freelancing, czyli praca na własny rachunek, stała się w ostatnich latach bardzo popularna. Coraz więcej ludzi decyduje się na tę formę zatrudnienia, ponieważ pozwala na większą swobodę w wykonywaniu pracy, elastyczny grafik oraz możliwość pracy z dowolnego miejsca na świecie.
-<br>
-Freelancerzy to osoby, które świadczą usługi dla różnych klientów, zazwyczaj w branży kreatywnej, takiej jak projektowanie graficzne, copywriting, programowanie, marketing internetowy czy tłumaczenia. Dzięki Internetowi, można łatwo znaleźć klientów z całego świata i zdobyć nowe projekty.
-<br>
-Jedną z głównych zalet freelancingu jest to, że można samodzielnie ustalać swoje ceny i warunki współpracy. Można też wybierać projekty, które są interesujące i odpowiadają naszym umiejętnościom. Ponadto, jako freelancerzy, możemy prowadzić swoją działalność z domu lub z dowolnego miejsca na świecie, co pozwala na większą swobodę i niezależność.
-<br>
-Jednak praca na własny rachunek wiąże się również z pewnymi wyzwaniami. Freelancerzy muszą na bieżąco szukać nowych klientów i projektów, a także zajmować się aspektami biznesowymi, takimi jak rozliczenia podatkowe czy faktury. Ponadto, nie ma gwarancji stałych przychodów, co może być stresujące dla niektórych osób.
-<br>
-Mimo to, freelancing to świetna opcja dla osób, które chcą pracować w branży kreatywnej i cenią sobie niezależność oraz elastyczność w wykonywaniu pracy. Jeśli dobrze zorganizujemy swoją działalność, możemy osiągnąć sukces i cieszyć się pracą, którą kochamy.
-</p>
+<div class="container" style="margin-top: 50px;">
+    <p>
+    Freelancing, czyli praca na własny rachunek, stała się w ostatnich latach bardzo popularna. Coraz więcej ludzi decyduje się na tę formę zatrudnienia, ponieważ pozwala na większą swobodę w wykonywaniu pracy, elastyczny grafik oraz możliwość pracy z dowolnego miejsca na świecie.
+    <br>
+    Freelancerzy to osoby, które świadczą usługi dla różnych klientów, zazwyczaj w branży kreatywnej, takiej jak projektowanie graficzne, copywriting, programowanie, marketing internetowy czy tłumaczenia. Dzięki Internetowi, można łatwo znaleźć klientów z całego świata i zdobyć nowe projekty.
+    <br>
+    Jedną z głównych zalet freelancingu jest to, że można samodzielnie ustalać swoje ceny i warunki współpracy. Można też wybierać projekty, które są interesujące i odpowiadają naszym umiejętnościom. Ponadto, jako freelancerzy, możemy prowadzić swoją działalność z domu lub z dowolnego miejsca na świecie, co pozwala na większą swobodę i niezależność.
+    <br>
+    Jednak praca na własny rachunek wiąże się również z pewnymi wyzwaniami. Freelancerzy muszą na bieżąco szukać nowych klientów i projektów, a także zajmować się aspektami biznesowymi, takimi jak rozliczenia podatkowe czy faktury. Ponadto, nie ma gwarancji stałych przychodów, co może być stresujące dla niektórych osób.
+    <br>
+    Mimo to, freelancing to świetna opcja dla osób, które chcą pracować w branży kreatywnej i cenią sobie niezależność oraz elastyczność w wykonywaniu pracy. Jeśli dobrze zorganizujemy swoją działalność, możemy osiągnąć sukces i cieszyć się pracą, którą kochamy.
+    </p>
+</div>
 
     <!-- Footer -->
     <br><br><br><br><br><br>
