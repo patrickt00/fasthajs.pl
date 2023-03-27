@@ -69,11 +69,10 @@
         </ul>
         Pamiętaj, że staranność i świadomość są kluczem do bezpiecznego zarabiania przez internet. Dzięki stosowaniu się do powyższych wskazówek możesz zminimalizować ryzyko wpadnięcia w pułapki oszustów i cieszyć się korzyściami płynącymi z pracy w środowisku cyfrowym. Współpracuj z innymi użytkownikami internetu, ostrzegaj przed oszustami i dbaj o swoje bezpieczeństwo oraz bezpieczeństwo innych. Razem możemy uczynić internet bardziej bezpiecznym miejscem dla uczciwego zarabiania i współpracy.
         </p>
-        <br><br><br><br><br><br>
     </div>
 
     <!-- Footer -->
-
+    <br><br><br><br><br><br>
     <?php include "../parts/footer.php" ?>
 
 <!-- Scripts -->

@@ -23,8 +23,8 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link  dropdown-toggle" data-bs-toggle="dropdown">Sposoby</a>
                          <ul class="dropdown-menu">
-                           <li><a class="dropdown-item" href="/polskie/">Polskie</a></li>
-                           <li><a class="dropdown-item" href="/zagraniczne/">Zagraniczne</a></li>
+                           <li><a class="dropdown-item" href="/sposoby/polskie/">Polskie</a></li>
+                           <li><a class="dropdown-item" href="/sposoby/zagraniczne/">Zagraniczne</a></li>
                          </ul>
                      </li>
                     <li class="nav-item dropdown">
