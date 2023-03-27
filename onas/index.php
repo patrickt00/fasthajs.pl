@@ -29,7 +29,7 @@
     </div>
 
     <!-- Footer -->
-
+    <br><br><br><br><br><br>
     <?php include "../parts/footer.php" ?>
 
 <!-- Scripts -->
