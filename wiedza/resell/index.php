@@ -20,7 +20,7 @@
 
     <!-- Page content -->
 <div class="container" style="margin-top: 50px;">
-    <h3></h3><br>
+    <h3>Co to tak właściwie jest resell?</h3><br>
     <p>Reselling to popularna metoda zarabiania pieniędzy, polegająca na kupowaniu produktów po niższej cenie i odsprzedawaniu ich z zyskiem. Jest to popularne rozwiązanie zarówno dla osób poszukujących dodatkowego dochodu, jak i dla przedsiębiorców prowadzących własną działalność.</p>
     <p>Oto kilka kroków, które pomogą Ci rozpocząć swoją przygodę z resellingiem:</p>
     <ol>

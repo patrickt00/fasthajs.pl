@@ -21,7 +21,7 @@
 
     <!-- Page content -->
     <div class="container" style="margin-top: 50px;">
-        <h1>Kompendium wiedzy</h1>
+        <h1>Kompendium wiedzy</h1><br>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/freelancing" role="button">Freelancing</a>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/akcje" role="button">Akcje i obligacje</a>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/kryptowaluty" role="button">Handel kryptowalutami</a><br><br>
@@ -33,7 +33,7 @@
         <a class="btn btn-outline-success btn-lg" href="/wiedza/przedsiebiorczosc" role="button">Przedsiębiorczość</a>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/pasywny" role="button">Dochód pasywny</a>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/resell" role="button">Resell</a><br><br>
-        <h4>Skąd jeszcze można pozyskiwać przydatną wiedzę?</h4>
+        <h4>Skąd jeszcze można pozyskiwać przydatną wiedzę?</h4><br>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/ksiazki" role="button">Książki</a><br><br>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/fora" role="button">Fora internetowe</a>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/filmy" role="button">Filmy</a><br><br>
