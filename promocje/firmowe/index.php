@@ -20,8 +20,8 @@
     
     <!-- Page content -->
     <div class="container" style="margin-top: 50px;">
-        <h1>Witamy na Fasthajs.pl!</h1>
-        <p>Szukasz sposobów na szybki zarobek? Nie szukaj dalej! W Fasthajs zapewniamy najnowsze i najlepsze porady i wskazówki, które pomogą Ci szybko zarobić pieniądze.</p>
+        <h2>Znajdziesz tu sposoby na zarobek dotyczący promocji związanych z firmowymi kontami bankowymi.</h2>
+        <p></p>
     </div>
 
     <!-- Footer -->

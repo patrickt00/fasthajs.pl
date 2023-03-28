@@ -1,5 +1,5 @@
-<!DOCTYPE html>
 <html lang="en" data-bs-theme="light">
+    <!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,10 +19,10 @@
     <?php include "../../parts/navbar.php" ?>
 
     <!-- Page content -->
-    <div class="container" style="margin-top: 50px;">
-        <h2>Znajdziesz tu ogólnoświatowe sposoby na zarobek w internecie.</h2>
-        <p></p>
-    </div>
+<div class="container" style="margin-top: 50px;">
+    <h3>Jakie fora warto odwiedzić?</h3><br>
+
+</div>
 
     <!-- Footer -->
     <br><br><br><br><br><br>

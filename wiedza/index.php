@@ -23,7 +23,8 @@
     <div class="container" style="margin-top: 50px;">
         <h1>Kompendium wiedzy</h1>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/freelancing" role="button">Freelancing</a>
-        <a class="btn btn-outline-success btn-lg" href="/wiedza/handel_kryptowalutami" role="button">Handel kryptowalutami</a><br><br>
+        <a class="btn btn-outline-success btn-lg" href="/wiedza/akcje" role="button">Akcje i obligacje</a>
+        <a class="btn btn-outline-success btn-lg" href="/wiedza/kryptowaluty" role="button">Handel kryptowalutami</a><br><br>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/nieruchomosci" role="button">Inwestycje w nieruchomości</a>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/oszczedzanie" role="button">Oszczędzanie i budżet</a><br><br>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/dropshipping" role="button">Dropshipping</a>
@@ -31,7 +32,7 @@
         <a class="btn btn-outline-success btn-lg" href="/wiedza/negocjacje" role="button">Sztuka negocjacji</a><br><br>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/przedsiebiorczosc" role="button">Przedsiębiorczość</a>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/pasywny" role="button">Dochód pasywny</a>
-        <a class="btn btn-outline-success btn-lg" href="/wiedza/resell" role="button">Resell</a><br>
+        <a class="btn btn-outline-success btn-lg" href="/wiedza/resell" role="button">Resell</a><br><br>
         <h4>Skąd jeszcze można pozyskiwać przydatną wiedzę?</h4>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/ksiazki" role="button">Książki</a><br><br>
         <a class="btn btn-outline-success btn-lg" href="/wiedza/fora" role="button">Fora internetowe</a>
