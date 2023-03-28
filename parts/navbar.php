@@ -39,7 +39,7 @@
                         <a class="nav-link" href="/wiedza/">Wiedza</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/uwazaj/">Uważaj</a>
+                        <a class="nav-link" href="/uwazaj/">Zagrożenia</a>
                     </li>
                 </ul>
             </div>
