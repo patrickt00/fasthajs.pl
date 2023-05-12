@@ -3,15 +3,19 @@ $(document).ready(function() {
   if (storedTheme) {
     $("html").attr("data-bs-theme", storedTheme);
     $("input[id='lightSwitch']").prop("checked", storedTheme === "dark");
+    updateBackgroundClass(storedTheme);
   }
 
   $("input[id='lightSwitch']").on("change", function() {
-    if ($("html").attr("data-bs-theme") == 'light') {
-      localStorage.setItem('theme', 'dark');
-      $("html").attr("data-bs-theme", "dark");
-    } else if ($("html").attr("data-bs-theme") == "dark") {
-      localStorage.setItem('theme', 'light');
-      $("html").attr("data-bs-theme", "light");
-    }
+    var currentTheme = $("html").attr("data-bs-theme");
+    var newTheme = currentTheme === 'light' ? 'dark' : 'light';
+    localStorage.setItem('theme', newTheme);
+    $("html").attr("data-bs-theme", newTheme);
+    updateBackgroundClass(newTheme);
   });
+
+  function updateBackgroundClass(theme) {
+    var navbar = $(".navbar");
+    navbar.removeClass("bg-" + (theme === "light" ? "dark" : "light")).addClass("bg-" + theme);
+  }
 });

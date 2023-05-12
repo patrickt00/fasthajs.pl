@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg py-1">
+<nav class="navbar navbar-expand-lg py-1 sticky-top bg-light">
         <div class="container-fluid">
             <a class="navbar-brand" href="/">
                 <div class="row" id="logo">

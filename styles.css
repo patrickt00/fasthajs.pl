@@ -26,3 +26,12 @@
 @media all and (max-width: 991px){
 #navbarOffcanvasLg { max-width: 200px;}
 }
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu {
+  left: 0;
+  right: auto;
+}
